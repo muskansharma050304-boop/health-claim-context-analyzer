@@ -80,7 +80,7 @@ The system generates:
 ## Limitations
 
 - Does not verify claims against live medical databases  
-- Works only on text-based input  
+- Works only on text based input  
 - Cannot replace professional medical advice  
 - Accuracy score is logical estimation, not clinical validation  
 - Limited to general health domains  
@@ -91,16 +91,15 @@ Planned improvements for future versions:
 
 - Support for image and video-based claims  
 - Database of verified medical sources  
-- Multi-language support  
+- Multi language support  
 - Browser extension version  
 - User feedback learning system  
-- Mobile-friendly interface  
+- Mobile friendly interface  
 - Integration with credible medical references  
 - More advanced claim categories  
 
 ## Author
-Developed as an independent academic project to demonstrate critical thinking and problem-solving in the area of digital health misinformation.
+Developed as an independent academic project to demonstrate critical thinking and problem solving in the area of digital health misinformation.
 
 ## License
-
 This project is released under the MIT License.
