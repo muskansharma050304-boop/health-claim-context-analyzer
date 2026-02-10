@@ -57,7 +57,7 @@ The output includes:
 - CSS  
 - JavaScript  
 - Rule-based logic  
-- Client-side processing  
+- Client side processing  
 
 No external AI API or backend is required.
 
@@ -74,8 +74,6 @@ The system generates:
 - Missing Context: dosage, diet, exercise  
 - Interpretation explaining realistic limits  
 - Estimated Scientific Accuracy: around 60–70%  
-
----
 
 ## Limitations
 
