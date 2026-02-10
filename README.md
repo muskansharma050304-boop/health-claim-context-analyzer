@@ -87,7 +87,7 @@ The system generates:
 
 Planned improvements for future versions:
 
-- Support for image and video-based claims  
+- Support for image and video based claims  
 - Database of verified medical sources  
 - Multi language support  
 - Browser extension version  
