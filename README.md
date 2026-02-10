@@ -1,6 +1,6 @@
 # Health Claim Context Analyzer
 
-A rule-based system designed to analyze health-related statements and explain them logically instead of simply labeling them as "true" or "false".
+A rule based system designed to analyze health related statements and explain them logically instead of simply labeling them as "true" or "false".
 ## Project Overview
 Social media is full of health claims that sound convincing but often lack proper scientific context. Many of these claims are incomplete, exaggerated, or misleading. This project was built to address that problem.
 Instead of depending on external AI APIs or black-box models, this system uses structured reasoning rules to break down a statement and evaluate:
