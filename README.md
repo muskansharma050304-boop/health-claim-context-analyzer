@@ -12,7 +12,7 @@ Instead of depending on external AI APIs or black-box models, this system uses s
 - How reliable the statement is  
 
 The goal is not to give a final judgment, but to help users THINK CRITICALLY about health information.
-## 🧠 Why This Project is Different
+## Why This Project is Different
 Most health claim tools available online:
 
 - Simply classify a statement as True or False  
@@ -22,15 +22,15 @@ Most health claim tools available online:
 
 This project takes a different approach:
 
-✔ Transparent logic instead of black-box answers  
-✔ Step-by-step reasoning  
-✔ Focus on missing context  
-✔ Explanation-based output  
-✔ No dependency on paid APIs  
+ Transparent logic instead of black-box answers  
+ Step-by-step reasoning  
+ Focus on missing context  
+ Explanation-based output  
+ No dependency on paid APIs  
 
 It mirrors how a real human would analyze a health statement logically.
 
-## ⚙️ How It Works
+## How It Works
 When a user enters a statement, the system:
 
 1. Detects the type of health claim  
