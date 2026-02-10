@@ -22,8 +22,8 @@ Most health claim tools available online:
 
 This project takes a different approach:
 
- Transparent logic instead of black-box answers  
- Step-by-step reasoning  
+ Transparent logic instead of black box answers  
+ Step by step reasoning  
  Focus on missing context  
  Explanation-based output  
  No dependency on paid APIs  
@@ -56,7 +56,7 @@ The output includes:
 - HTML  
 - CSS  
 - JavaScript  
-- Rule-based logic  
+- Rule based logic  
 - Client side processing  
 
 No external AI API or backend is required.
