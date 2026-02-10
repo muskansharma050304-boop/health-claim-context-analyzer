@@ -3,7 +3,7 @@
 A rule based system designed to analyze health related statements and explain them logically instead of simply labeling them as "true" or "false".
 ## Project Overview
 Social media is full of health claims that sound convincing but often lack proper scientific context. Many of these claims are incomplete, exaggerated, or misleading. This project was built to address that problem.
-Instead of depending on external AI APIs or black-box models, this system uses structured reasoning rules to break down a statement and evaluate:
+Instead of depending on external AI APIs or black box models, this system uses structured reasoning rules to break down a statement and evaluate:
 
 - What type of claim it is  
 - What scientific principle applies  
@@ -25,7 +25,7 @@ This project takes a different approach:
  Transparent logic instead of black box answers  
  Step by step reasoning  
  Focus on missing context  
- Explanation-based output  
+ Explanation based output  
  No dependency on paid APIs  
 
 It mirrors how a real human would analyze a health statement logically.
